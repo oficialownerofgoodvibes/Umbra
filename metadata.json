@@ -1,0 +1,6 @@
+{
+  "name": "Umbra",
+  "description": "Bóveda cifrada 100% local, sin servidores. ODS bubbas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

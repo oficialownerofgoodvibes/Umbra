@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.8"
+        android:scaleY="1.8"
+        android:translateX="32.4"
+        android:translateY="32.4">
+        <!-- Shield Outline -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#ecece4"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M12,2 L4,5 V11.5 C4,16.5 7.4,21.1 12,22 C16.6,21.1 20,16.5 20,11.5 V5 L12,2 Z" />
+        <!-- Keyhole / Center Cryptographic Vault Emblem -->
+        <path
+            android:fillColor="#ecece4"
+            android:pathData="M12,7 C10.9,7 10,7.9 10,9 C10,9.7 10.4,10.4 11,10.8 V15 C11,15.6 11.4,16 12,16 C12.6,16 13,15.6 13,15 V10.8 C13.6,10.4 14,9.7 14,9 C14,7.9 13.1,7 12,7 Z" />
+    </group>
+</vector>

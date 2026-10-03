@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Umbra" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">#0b0c0a</item>
+        <item name="android:statusBarColor">#0b0c0a</item>
+        <item name="android:navigationBarColor">#0b0c0a</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
